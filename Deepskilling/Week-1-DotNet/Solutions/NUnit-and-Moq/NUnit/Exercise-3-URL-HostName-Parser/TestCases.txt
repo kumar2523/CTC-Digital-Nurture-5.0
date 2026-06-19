@@ -1,0 +1,34 @@
+URL Host Name Parser Tests
+
+Test Case 1
+
+Input:
+https://www.google.com
+
+Expected:
+google.com
+
+
+Test Case 2
+
+Input:
+https://www.amazon.in
+
+Expected:
+amazon.in
+
+
+Test Case 3
+
+Input:
+https://www.github.com
+
+Expected:
+github.com
+
+
+Objective
+
+Verify that ParseHostName()
+returns correct host name
+for valid URLs.

@@ -1,0 +1,22 @@
+Method Tested
+
+IsLeapYear()
+
+Assertions Used
+
+Assert.That()
+
+Scenarios Covered
+
+1. Leap year
+2. Non leap year
+3. Invalid year
+
+Expected Outcome
+
+Leap Year = 1
+Non Leap Year = 0
+Invalid Year = -1
+
+Status:
+Completed

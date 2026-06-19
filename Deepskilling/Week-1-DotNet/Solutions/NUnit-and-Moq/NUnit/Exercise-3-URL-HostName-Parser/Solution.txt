@@ -1,0 +1,19 @@
+Method Tested
+
+ParseHostName()
+
+Assertions
+
+Assert.That()
+
+Scenarios Covered
+
+1. Valid URL
+2. Different domain names
+
+Expected Outcome
+
+Host name should be extracted correctly.
+
+Status:
+Completed

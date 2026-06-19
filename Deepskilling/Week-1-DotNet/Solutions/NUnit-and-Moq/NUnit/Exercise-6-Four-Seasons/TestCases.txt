@@ -1,0 +1,18 @@
+Four Seasons Tests
+
+Month      Expected Season
+
+February   Spring
+March      Spring
+
+April      Summer
+June       Summer
+
+July       Monsoon
+September  Monsoon
+
+October    Autumn
+November   Autumn
+
+December   Winter
+January    Winter

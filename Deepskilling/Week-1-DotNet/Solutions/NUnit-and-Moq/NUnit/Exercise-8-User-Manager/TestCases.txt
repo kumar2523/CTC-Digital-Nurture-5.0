@@ -1,0 +1,32 @@
+User Manager Tests
+
+Valid PAN
+
+ABCDE1234F
+
+Expected:
+User Created
+
+
+Null PAN
+
+Expected:
+NullReferenceException
+
+
+Empty PAN
+
+Expected:
+NullReferenceException
+
+
+PAN Length < 10
+
+Expected:
+FormatException
+
+
+PAN Length > 10
+
+Expected:
+FormatException

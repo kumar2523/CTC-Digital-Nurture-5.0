@@ -1,0 +1,11 @@
+Leap Year Tests
+
+Year   Expected
+
+2024   1
+2023   0
+2000   1
+1900   0
+
+1752   -1
+10000  -1

@@ -1,0 +1,21 @@
+Method Tested
+
+CreateUser()
+
+Assertions Used
+
+Assert.That()
+
+Exceptions Tested
+
+1. NullReferenceException
+2. FormatException
+
+Expected Outcome
+
+Valid PAN should create user.
+
+Invalid PAN should throw exception.
+
+Status:
+Completed

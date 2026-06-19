@@ -1,0 +1,29 @@
+Subtraction Tests
+
+10 - 5 = 5
+20 - 10 = 10
+5 - 10 = -5
+
+
+Multiplication Tests
+
+10 * 5 = 50
+5 * 5 = 25
+10 * 0 = 0
+
+
+Division Tests
+
+20 / 5 = 4
+10 / 2 = 5
+10 / 0 = Exception
+
+
+AllClear Test
+
+Addition(10,20)
+Result = 30
+
+AllClear()
+
+Result = 0

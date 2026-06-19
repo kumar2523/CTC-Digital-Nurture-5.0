@@ -1,0 +1,38 @@
+Collections Tests
+
+Scenario 1
+
+Verify collection contains no null values.
+
+Expected:
+No null objects found.
+
+
+Scenario 2
+
+Verify employee with ID = 100 exists.
+
+Expected:
+Employee ID 100 found.
+
+
+Scenario 3
+
+Verify collection contains only unique employees.
+
+Expected:
+No duplicate employee IDs.
+
+
+Scenario 4
+
+Compare:
+
+GetEmployees()
+
+and
+
+GetEmployeesWhoJoinedInPreviousYears()
+
+Expected:
+Collections contain same employee records.

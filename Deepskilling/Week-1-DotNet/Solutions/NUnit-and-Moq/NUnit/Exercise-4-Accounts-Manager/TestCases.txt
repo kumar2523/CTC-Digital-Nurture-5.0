@@ -1,0 +1,39 @@
+Accounts Manager Tests
+
+Valid Login
+
+User ID: user_1
+Password: secret@user11
+
+Expected:
+Welcome user_1!!!
+
+
+Valid Login
+
+User ID: user_2
+Password: secret@user22
+
+Expected:
+Welcome user_2!!!
+
+
+Invalid Login
+
+User ID: user_1
+Password: wrongpassword
+
+Expected:
+Invalid user id/password
+
+
+Empty User ID
+
+Expected:
+ArgumentException
+
+
+Empty Password
+
+Expected:
+ArgumentException

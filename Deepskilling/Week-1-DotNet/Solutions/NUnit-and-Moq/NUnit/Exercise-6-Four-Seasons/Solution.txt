@@ -1,0 +1,19 @@
+Method Tested
+
+GetSeason()
+
+Concept Used
+
+TestCaseSource
+
+Assertions Used
+
+Assert.That()
+
+Expected Outcome
+
+Correct season should be returned
+for each month.
+
+Status:
+Completed

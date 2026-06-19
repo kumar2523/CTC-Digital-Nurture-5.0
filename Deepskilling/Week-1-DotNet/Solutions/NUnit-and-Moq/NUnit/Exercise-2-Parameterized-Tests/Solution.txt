@@ -1,0 +1,24 @@
+Methods Tested
+
+1. Subtraction()
+2. Multiplication()
+3. Division()
+4. AllClear()
+5. GetResult
+
+Assertions Used
+
+- Assert.AreEqual
+- Assert.Fail
+- Try Catch
+
+Expected Outcome
+
+All methods should return correct values.
+
+Division by zero should throw exception.
+
+AllClear() should reset result to 0.
+
+Status:
+Completed

@@ -1,0 +1,27 @@
+Method Tested
+
+Login()
+
+Assertions Used
+
+Assert.That()
+
+Scenarios Covered
+
+1. Valid credentials
+2. Invalid credentials
+3. Empty User ID
+4. Empty Password
+
+Expected Outcome
+
+Valid user should login successfully.
+
+Invalid credentials should return
+"Invalid user id/password".
+
+Empty values should throw
+ArgumentException.
+
+Status:
+Completed

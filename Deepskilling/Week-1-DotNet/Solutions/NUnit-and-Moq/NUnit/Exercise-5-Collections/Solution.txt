@@ -1,0 +1,23 @@
+Methods Tested
+
+1. GetEmployees()
+2. GetEmployeesWhoJoinedInPreviousYears()
+
+Assertions Used
+
+- CollectionAssert
+- Assert.That()
+
+Scenarios Covered
+
+1. No null values
+2. Employee ID 100 exists
+3. Unique employee collection
+4. Collection comparison
+
+Expected Outcome
+
+Collections should satisfy all conditions.
+
+Status:
+Completed
